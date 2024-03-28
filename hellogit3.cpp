@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(){
-    
-    cout << "Hellogit3 nuevos cambios Cambios legales\n";
+
+    cout << "Veamos otros cambios en hellogit\n";
     return 0;
 }
