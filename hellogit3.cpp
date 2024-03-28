@@ -4,6 +4,6 @@ using namespace std;
 
 int main(){
 
-    cout << "Hellogit3 nuevos cambios\n";
+    cout << "Hellogit3 nuevos cambios Cambios legales\n";
     return 0;
 }
