@@ -4,6 +4,6 @@ using namespace std;
 
 int main(){
 
-    std::cout << "helloGit\n";
+    std::cout << "New HelloGit\n";
     return 0;
 }
