@@ -4,6 +4,6 @@ using namespace std;
 
 int main(){
 
-    std::cout << "New HelloGit cosas random\n";
+    std::cout << "Hello github\n";
     return 0;
 }
